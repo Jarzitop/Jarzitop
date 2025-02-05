@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Jarzitop/Jarzitop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Systems and Computer Engineering Student | Universidad de los Andes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about software development and system architecture. Throughout my academic journey, I have worked on various projects using technologies such as:
+
+Back-end: Java, Spring, Python
+Databases: SQL, MongoDB
+Testing: Unit and integration testing
+Software architecture: Scalable system design and design patterns
+IT in organizations: IT management and strategies
+Process modeling: BPMN
+Always looking for new challenges and opportunities to keep learning. Feel free to explore my projects and collaborate! 🚀
