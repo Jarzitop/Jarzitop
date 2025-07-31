@@ -13,11 +13,6 @@
 
 🔍 Always looking for **new challenges** and opportunities to keep learning. Feel free to explore my projects and collaborate! 🚀  
 
----
-
-## 📌 Featured Projects  
-- [**Project Name**](https://github.com/user/project) - Brief description of the project.  
-- [**Another Project**](https://github.com/user/another-project) - Another brief description.  
 
 ---
 
