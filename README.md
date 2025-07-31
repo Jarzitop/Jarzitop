@@ -2,7 +2,7 @@
 
 👨‍💻 **Systems and Computer Engineering Student** | Universidad de los Andes  
 
-🚀 Passionate about **software development** and **system architecture**. Throughout my academic journey, I have worked on various projects using technologies such as:  
+🚀 Passionate about **software development** and **system architecture**. Throughout my academic journey, I have worked on various projects in my classes using technologies such as:  
 
 🖥️ **Back-end:** Java, Spring, Python  
 🗄️ **Databases:** SQL, MongoDB  
@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Contact & Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/j-rojasz)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josea.rojasz05@gmail.com)  
 
 ---
