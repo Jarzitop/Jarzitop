@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="¡Hola, soy José! Siempre tengo algo entre manos: explorar, probar, entender y documentar." width="100%" />
+  <img src="./assets/profile-header.svg" alt="Terminal Linux con el comando whoami: curioso por defecto, siempre aprendiendo." width="100%" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🔒 Una idea que todavía me guardo</h3>
+      <h3>🔒 Idea secreta</h3>
       <p>Estoy planeando una aplicación open source. Todavía estoy definiendo cómo llevarla a algo útil, así que prefiero contar más cuando tenga algo concreto para mostrar.</p>
     </td>
   </tr>
@@ -68,9 +68,11 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
 Prefiero mostrar lo que voy construyendo antes que ponerle una nota a mi GitHub o medirlo por un único lenguaje.
 
 <p align="center">
-  <a href="https://github.com/Jarzitop?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarzitop&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;line=2dd4bf&amp;point=5eead4&amp;area_color=0d9488&amp;days=40" alt="Gráfico de contribuciones recientes de José en GitHub" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarzitop&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;line=2dd4bf&amp;point=5eead4&amp;area_color=0d9488&amp;days=40" alt="Gráfico de actividad reciente de Jose en GitHub" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Si la imagen externa no carga, puedes consultar el <a href="https://github.com/Jarzitop">calendario de contribuciones de GitHub</a>, que aparece debajo de este README.</sub>
 </p>
 
 ---
