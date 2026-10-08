@@ -1,42 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="320" viewBox="0 0 1040 320" role="img" aria-labelledby="title desc">
-  <title id="title">¡Hola, soy José!</title>
-  <desc id="desc">Una bienvenida personal con estética de terminal. Siempre tengo algo entre manos.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="260" viewBox="0 0 1040 260" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal Linux: whoami</title>
+  <desc id="desc">curioso por defecto; siempre aprendiendo</desc>
   <defs>
-    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#101827"/>
-      <stop offset="58%" stop-color="#122334"/>
-      <stop offset="100%" stop-color="#0f3a40"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111c2a"/>
+      <stop offset="100%" stop-color="#14373d"/>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity=".22"/>
-      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#a7f3d0" opacity=".13"/>
-    </pattern>
   </defs>
-  <rect width="1040" height="320" rx="24" fill="url(#background)"/>
-  <rect width="1040" height="320" rx="24" fill="url(#dots)"/>
-  <circle cx="835" cy="158" r="266" fill="url(#glow)"/>
-  <path d="M28 270 C185 236 317 315 525 267" fill="none" stroke="#2dd4bf" stroke-width="1.4" opacity=".18"/>
-  <rect x="59" y="47" width="157" height="32" rx="16" fill="#1f4047" stroke="#386c6b"/>
-  <circle cx="79" cy="63" r="4" fill="#5eead4"/>
-  <text x="94" y="69" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" letter-spacing="1.3" font-weight="700" fill="#a7f3d0">JARZITOP / GITHUB</text>
-  <text x="59" y="160" font-family="DejaVu Sans, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2.5" fill="#f8fafc">¡Hola, soy José!</text>
-  <text x="62" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" fill="#c5d5e2">Siempre tengo algo entre manos.</text>
-  <line x1="63" y1="239" x2="93" y2="239" stroke="#5eead4" stroke-width="4" stroke-linecap="round"/>
-  <text x="109" y="245" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#90aebc">explorar · probar · entender · documentar</text>
-  <g transform="translate(691,50)">
-    <rect x="0" y="0" width="304" height="225" rx="15" fill="#08131e" stroke="#4a727b" stroke-width="1.4"/>
-    <path d="M15 0 H289 Q304 0 304 15 V42 H0 V15 Q0 0 15 0Z" fill="#1d3340"/>
-    <circle cx="22" cy="21" r="5" fill="#fb7185"/>
-    <circle cx="41" cy="21" r="5" fill="#fbbf24"/>
-    <circle cx="60" cy="21" r="5" fill="#34d399"/>
-    <text x="156" y="26" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#a5b4c4">jose@linux ~</text>
-    <text x="20" y="79" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#5eead4">$ whoami</text>
-    <text x="20" y="113" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e2e8f0">curioso por defecto</text>
-    <text x="20" y="143" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e2e8f0">siempre aprendiendo</text>
-    <text x="20" y="184" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#5eead4">$ <tspan fill="#a3e635">_</tspan></text>
+  <rect width="1040" height="260" rx="20" fill="url(#bg)"/>
+  <rect x="61" y="25" width="918" height="210" rx="14" fill="#0a1420" stroke="#38626b" stroke-width="1.5"/>
+  <path d="M75 25 H965 Q979 25 979 39 V64 H61 V39 Q61 25 75 25Z" fill="#203442"/>
+  <circle cx="84" cy="45" r="5" fill="#fb7185"/>
+  <circle cx="104" cy="45" r="5" fill="#fbbf24"/>
+  <circle cx="124" cy="45" r="5" fill="#34d399"/>
+  <g font-family="DejaVu Sans Mono, Consolas, monospace" font-size="23">
+    <text x="95" y="112" fill="#5eead4">$ whoami</text>
+    <text x="95" y="156" fill="#e2e8f0">curioso por defecto</text>
+    <text x="95" y="191" fill="#e2e8f0">siempre aprendiendo<tspan fill="#5eead4">_</tspan></text>
   </g>
-  <rect x="0" y="310" width="1040" height="10" rx="5" fill="#2dd4bf" opacity=".8"/>
 </svg>
