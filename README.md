@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Estudiante de Ingeniería de Sistemas</strong> · Bogotá, Colombia<br />
-  <sub>Interesado en QA, application support, cybersecurity y arquitectura de software.</sub>
+  <sub>Interesado en Arquitectura, QA, application support, cybersecurity y arquitectura de software.</sub>
 </p>
 
 <p align="center">
