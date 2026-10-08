@@ -1,30 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="164" viewBox="0 0 760 164" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="368" viewBox="0 0 420 368" role="img" aria-labelledby="title desc">
   <title id="title">Así suelo aprender</title>
-  <desc id="desc">Me da curiosidad, lo pruebo, lo documento y vuelvo a empezar.</desc>
-  <rect x="1" y="1" width="758" height="162" rx="17" fill="#101c2b" stroke="#35565e" stroke-width="1.5"/>
+  <desc id="desc">Primero me hago preguntas; después pruebo cosas; finalmente anoto lo aprendido.</desc>
+  <rect x="1" y="1" width="418" height="366" rx="18" fill="#101c2b" stroke="#35565e" stroke-width="1.5"/>
   <g font-family="DejaVu Sans, Arial, sans-serif">
-    <g>
-      <rect x="20" y="21" width="218" height="107" rx="11" fill="#18303c" stroke="#3b6470"/>
-      <text x="36" y="49" fill="#5eead4" font-family="DejaVu Sans Mono, monospace" font-size="13">01 / CURIOSIDAD</text>
-      <text x="36" y="80" fill="#f1f5f9" font-size="17" font-weight="700">Me hago preguntas</text>
-      <text x="36" y="105" fill="#a7bac9" font-size="12">Empiezo por entender</text>
-    </g>
-    <g>
-      <rect x="271" y="21" width="218" height="107" rx="11" fill="#18303c" stroke="#3b6470"/>
-      <text x="287" y="49" fill="#5eead4" font-family="DejaVu Sans Mono, monospace" font-size="13">02 / EXPERIMENTO</text>
-      <text x="287" y="80" fill="#f1f5f9" font-size="17" font-weight="700">Pruebo cosas</text>
-      <text x="287" y="105" fill="#a7bac9" font-size="12">Y averiguo qué falla</text>
-    </g>
-    <g>
-      <rect x="522" y="21" width="218" height="107" rx="11" fill="#18303c" stroke="#3b6470"/>
-      <text x="538" y="49" fill="#5eead4" font-family="DejaVu Sans Mono, monospace" font-size="13">03 / DOCUMENTO</text>
-      <text x="538" y="80" fill="#f1f5f9" font-size="17" font-weight="700">Anoto lo aprendido</text>
-      <text x="538" y="105" fill="#a7bac9" font-size="12">Para la próxima vez</text>
-    </g>
+    <rect x="22" y="20" width="376" height="92" rx="12" fill="#18303c" stroke="#3b6470"/>
+    <text x="42" y="46" fill="#5eead4" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13">01 / CURIOSIDAD</text>
+    <text x="42" y="75" fill="#f1f5f9" font-size="19" font-weight="700">Me hago preguntas</text>
+    <text x="42" y="96" fill="#b6c8d3" font-size="14">Empiezo por entender</text>
+    <rect x="22" y="138" width="376" height="92" rx="12" fill="#18303c" stroke="#3b6470"/>
+    <text x="42" y="164" fill="#5eead4" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13">02 / EXPERIMENTO</text>
+    <text x="42" y="193" fill="#f1f5f9" font-size="19" font-weight="700">Pruebo cosas</text>
+    <text x="42" y="214" fill="#b6c8d3" font-size="14">Y averiguo qué falla</text>
+    <rect x="22" y="256" width="376" height="92" rx="12" fill="#18303c" stroke="#3b6470"/>
+    <text x="42" y="282" fill="#5eead4" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13">03 / DOCUMENTO</text>
+    <text x="42" y="311" fill="#f1f5f9" font-size="19" font-weight="700">Anoto lo aprendido</text>
+    <text x="42" y="332" fill="#b6c8d3" font-size="14">Para la próxima vez</text>
   </g>
-  <g fill="none" stroke="#5eead4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-    <path d="M244 73 H265 M258 67 L265 73 L258 79"/>
-    <path d="M495 73 H516 M509 67 L516 73 L509 79"/>
+  <g stroke="#5eead4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M210 116 V132 M205 127 L210 132 L215 127"/>
+    <path d="M210 234 V250 M205 245 L210 250 L215 245"/>
   </g>
-  <text x="380" y="150" text-anchor="middle" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" fill="#91adbc">repetir cuando haga falta</text>
 </svg>

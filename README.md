@@ -35,7 +35,7 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   <img src="https://img.shields.io/badge/QA-pruebas%20y%20documentación-475569?style=flat-square" alt="QA, pruebas y documentación" />
 </p>
 
-**Donde más me gusta experimentar:** Linux, redes, pruebas de APIs, seguridad y documentación técnica.
+**Con lo que más experimento:** Linux, redes, pruebas de APIs, seguridad y documentación técnica.
 
 **Ahora mismo explorando:** AWS, Kubernetes y arquitectura. Los estoy conociendo; no los presento como especialidades ni como certificaciones.
 
@@ -48,6 +48,7 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
       <p>Una API REST para manejar tickets de soporte técnico. La estoy construyendo para practicar lógica de negocio, validaciones, pruebas automatizadas y documentación de APIs.</p>
       <p><sub>Java · Spring Boot · PostgreSQL · Docker · GitHub Actions</sub></p>
       <a href="https://github.com/Jarzitop/supportdesk-api"><strong>Explorar el repositorio →</strong></a>
+      <p><a href="https://github.com/Jarzitop/supportdesk-api/actions/workflows/ci.yml"><img src="https://github.com/Jarzitop/supportdesk-api/actions/workflows/ci.yml/badge.svg?branch=main" alt="Estado de las pruebas automáticas de SupportDesk API" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ Defensive Security Lab</h3>
@@ -63,11 +64,30 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   </tr>
 </table>
 
-## Mi a## Así suelo aprender
+<details>
+  <summary><strong>🔎 Por dentro de SupportDesk API</strong></summary>
+
+  <p>Me interesa entender algo más que el resultado final. En esta API practico cómo organizar una aplicación, probar lo que construyo y dejar claro cómo funciona.</p>
+
+  <ul>
+    <li><a href="https://github.com/Jarzitop/supportdesk-api/tree/main/src/test">Pruebas automatizadas</a>: validación de solicitudes, controladores y lógica de negocio.</li>
+    <li><a href="https://github.com/Jarzitop/supportdesk-api/actions/workflows/ci.yml">Integración continua</a>: GitHub Actions ejecuta los tests con PostgreSQL.</li>
+    <li><a href="https://github.com/Jarzitop/supportdesk-api#api-endpoints">Endpoints y documentación</a>: rutas para usuarios, tickets y sus operaciones.</li>
+  </ul>
+</details>
+
+## Así suelo aprender
 
 <p align="center">
-  <img src="./assets/learning-loop.svg" alt="Me da curiosidad, lo pruebo y lo documento. Después vuelvo a empezar." width="760" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/learning-loop-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/learning-loop.svg" />
+    <img src="./assets/learning-loop.svg" alt="Mi forma de aprender: curiosidad, experimento y documentación, en tres pasos." width="420" />
+  </picture>
 </p>
-p align="center">
+
+---
+
+<p align="center">
   <em>Si quieres hablar de algún proyecto, intercambiar ideas o conversar sobre una oportunidad, puedes escribirme por <a href="https://www.linkedin.com/in/j-rojasz">LinkedIn</a> o <a href="mailto:josea.rojasz05@gmail.com">correo</a>.</em>
 </p>
