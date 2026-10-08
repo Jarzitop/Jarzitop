@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Terminal Linux con el comando whoami: curioso por defecto, siempre aprendiendo." width="100%" />
+  <img src="./assets/profile-header.svg" alt="Terminal Linux de Jose: whoami, curioso por defecto, siempre aprendiendo." width="350" />
 </p>
 
 <p align="center">
@@ -63,20 +63,11 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   </tr>
 </table>
 
-## Mi actividad por aquí
-
-Prefiero mostrar lo que voy construyendo antes que ponerle una nota a mi GitHub o medirlo por un único lenguaje.
+## Mi a## Así suelo aprender
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarzitop&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;line=2dd4bf&amp;point=5eead4&amp;area_color=0d9488&amp;days=40" alt="Gráfico de actividad reciente de Jose en GitHub" width="100%" />
+  <img src="./assets/learning-loop.svg" alt="Me da curiosidad, lo pruebo y lo documento. Después vuelvo a empezar." width="760" />
 </p>
-
-<p align="center">
-  <sub>Si la imagen externa no carga, puedes consultar el <a href="https://github.com/Jarzitop">calendario de contribuciones de GitHub</a>, que aparece debajo de este README.</sub>
-</p>
-
----
-
-<p align="center">
+p align="center">
   <em>Si quieres hablar de algún proyecto, intercambiar ideas o conversar sobre una oportunidad, puedes escribirme por <a href="https://www.linkedin.com/in/j-rojasz">LinkedIn</a> o <a href="mailto:josea.rojasz05@gmail.com">correo</a>.</em>
 </p>
