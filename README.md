@@ -35,7 +35,7 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   <img src="https://img.shields.io/badge/QA-pruebas%20y%20documentación-475569?style=flat-square" alt="QA, pruebas y documentación" />
 </p>
 
-**Donde más me gusta experimentar:** Linux, redes, pruebas de APIs, seguridad y documentación técnica.
+**Con lo que más experimento:** Linux, redes, pruebas de APIs, seguridad y documentación técnica.
 
 **Ahora mismo explorando:** AWS, Kubernetes y arquitectura. Los estoy conociendo; no los presento como especialidades ni como certificaciones.
 
@@ -63,11 +63,14 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   </tr>
 </table>
 
-## Mi a## Así suelo aprender
+## Así suelo aprender
 
 <p align="center">
-  <img src="./assets/learning-loop.svg" alt="Me da curiosidad, lo pruebo y lo documento. Después vuelvo a empezar." width="760" />
+  <img src="./assets/learning-loop.svg" alt="Me da curiosidad, lo pruebo y lo documento. Después vuelvo a empezar." width="420" />
 </p>
-p align="center">
+
+---
+
+<p align="center">
   <em>Si quieres hablar de algún proyecto, intercambiar ideas o conversar sobre una oportunidad, puedes escribirme por <a href="https://www.linkedin.com/in/j-rojasz">LinkedIn</a> o <a href="mailto:josea.rojasz05@gmail.com">correo</a>.</em>
 </p>
