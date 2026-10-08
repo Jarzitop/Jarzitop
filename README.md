@@ -76,15 +76,7 @@ También me gustan **Linux, la ciberseguridad, el pentesting en entornos de prá
   </ul>
 </details>
 
-## Así suelo aprender
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/learning-loop-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/learning-loop.svg" />
-    <img src="./assets/learning-loop.svg" alt="Mi forma de aprender: curiosidad, experimento y documentación, en tres pasos." width="420" />
-  </picture>
-</p>
 
 ---
 
